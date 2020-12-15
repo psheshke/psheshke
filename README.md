@@ -6,6 +6,4 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=psheshke)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=psheshke&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/psheshke)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=psheshke&show_icons=true)
